@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fashion store</title>
+    <link rel="stylesheet" href=".css"></link>
+</head>
+<body background="img_11 - Copy.jpg">
+    
+<h1>MOBILES GALLERY</h1>
+<nav>
+    <ul>
+        <li><a href="https://www.poorvika.com/ ">Home</a></li>
+        <li><a href="https://www.poorvika.com/orders">About</a></li>
+        <li><a href="https://www.linkedin.com/company/poorvika-mobiles-private-limited/?originalSubdomain=inh">follow us</a></li>
+        
+    </ul>
+    </nav>
+    <button>📞Contact Us</button>
+    <img href="https://pin.it/4OLR9F6aq"></img>
+
+
+    
+</body>
+</html>
